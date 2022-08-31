@@ -1,5 +1,5 @@
 # chromium-localtunnel
-enable WS through localtunnel and console.log it :>
+mimic headless chrome with localtunnel + chromium itself 
 
 
 npm install

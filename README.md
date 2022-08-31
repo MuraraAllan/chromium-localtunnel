@@ -1,5 +1,5 @@
 # chromium-localtunnel
-mimic headless chrome with localtunnel + chromium itself 
+mimic headless chrome with localtunnel + chromium websocket
 
 
 npm install
